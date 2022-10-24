@@ -6,6 +6,7 @@ int main()
 {
     //declare local variables
     int min = 1;
+    //store the user input into a file and store that number in the max
     int max = 10;
     int playerChoice;
     char guess;
